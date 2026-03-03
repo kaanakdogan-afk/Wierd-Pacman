@@ -1,7 +1,12 @@
-html, body {
+html, 
+body {
   margin: 0;
   padding: 0;
+  color: black; rgb(30, 30, 29);
 }
+
 canvas {
   display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
